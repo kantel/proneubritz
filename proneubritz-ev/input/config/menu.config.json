@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Hauptmenü",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1794432024112,
+                "label": "Startseite",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1794426554097,
+                "label": "proNeubritz e.V.",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1794432142990,
+                        "label": "Über …",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 5,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1794427723157,
+                        "label": "Wie entstand der Verein?",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 6,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1794429140214,
+                        "label": "Wie werde ich Mitglied?",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 7,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1794429218182,
+                        "label": "Vorstand",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 8,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1794429391285,
+                "label": "Stolpersteine",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1794431540255,
+                        "label": "Stolpersteinführungen",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 1,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1794429503103,
+                        "label": "Wo liegen in Neubritz Stolpersteine?",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 9,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1794434826734,
+                        "label": "Recherche für einen Stolperstein",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 10,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]
